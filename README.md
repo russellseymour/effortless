@@ -12,5 +12,5 @@ At the moment only two applications are installed using Chocolatey:
 To build the Habitat package on Windows, run the following command:
 
 ```powershell
-
+hab pkg build .\habitat-win
 ```
